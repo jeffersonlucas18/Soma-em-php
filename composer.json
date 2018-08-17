@@ -1,0 +1,16 @@
+{
+    "name": "jeffersonlucas18/soma-php",
+    "description": "soma valores inteiros.",
+    "type": "library",
+    "require": {
+        "phpunit/phpunit": "6.5.x-dev"
+    },
+    "license": "MAIT",
+    "authors": [
+        {
+            "name": "jefferson lucas",
+            "email": "jefferson.lucas114@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
